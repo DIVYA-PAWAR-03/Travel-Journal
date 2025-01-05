@@ -17,7 +17,7 @@ body{
     gap: .3rem;
     background-color: #49b9e6;
     padding: .5rem;
-    color: white;
+    color: #f0ebeb;
     
 }
 .img{
@@ -29,10 +29,6 @@ body{
   display: flex;
   gap: 2rem;
   margin: 6rem 0 0 3rem;
-  /* align-items: center;
-  justify-content: center;
-  gap: 8rem; */
-  
 }
 .container2,
 .container3{
@@ -62,6 +58,6 @@ body{
 .footer p{
   font-size: 1rem;
   font-weight: 700;
-  color: white;
+  color: #ffffff;
 }
 
