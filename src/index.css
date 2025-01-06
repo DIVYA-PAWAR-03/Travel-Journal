@@ -8,7 +8,7 @@
 
 body{
   /* background-color: whitesmoke; */
-  background-image: url(../public/images/sky.jpeg);
+  background-image: url(/images/sky.jpeg);
 }
 .header .nav-bar{
     display: flex;
