@@ -3,13 +3,23 @@ import './App.css'
 import Footer from './components/footer'
 import Header from './components/Header'
 import MainContainer from './components/MainContainer'
+import data from '../src/components/data'
 
 function App() {
-  
+  const dataElement = data.map((entry)=>{
+    return <MainContainer 
+            img ={entry.img}
+            city={entry.city}
+            location = {entry.location}
+            dates = {entry.dates}
+            description={entry.description}
+            />
+  })
   return (
     <>
       <Header/>
-      <MainContainer 
+      {dataElement}
+      {/* <MainContainer 
       img={
         {
           src:"/images/mountain.jpg",
@@ -47,7 +57,7 @@ function App() {
       
       
       
-      />
+      /> */}
       
       <Footer/>
     </>
