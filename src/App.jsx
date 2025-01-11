@@ -1,6 +1,6 @@
 
 import './App.css'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import Header from './components/Header'
 import MainContainer from './components/MainContainer'
 import data from '../src/components/data'
