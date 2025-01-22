@@ -61,7 +61,19 @@ export default[
               location:"https://www.google.com/maps/place/Mount+Fuji/@35.3606421,138.7170637,15z/data=!3m1!4b1!4m6!3m5!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634!16zL20vMGNrczA?entry=ttuhttps://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=japan&amp;t=h&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
               dates:"8 Dec ,2024 - 10 Dec,2024",
               description:"Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha. In Bangkok, the capital, an ultramodern cityscape rises next to quiet canalside communities and the iconic temples of Wat Arun, Wat Pho and the Emerald Buddha Temple (Wat Phra Kaew). Nearby beach resorts include bustling Pattaya and fashionable Hua Hin"
-                    }
+                    },
 
-                    
+
+                    {
+                        id:6,
+                        img:{
+                            src:"/images/south-korea.jpg",
+                    alt:"river"
+                  },
+                  city:"South-Korea",
+                  location:"https://www.google.com/maps/place/Mount+Fuji/@35.3606421,138.7170637,15z/data=!3m1!4b1!4m6!3m5!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634!16zL20vMGNrczA?entry=ttuhttps://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=japan&amp;t=h&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+                  dates:"31 Nov ,2024 - 3 Jan,2025",
+                  description:"South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea. It’s equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands and high-tech cities such as Seoul, the capital."
+                        }
+        
 ]
